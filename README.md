@@ -24,7 +24,7 @@ It uses as base the Wordpress Framework 4.9.5 and MySql Database 5.7.19.
 ## How to install it
 For that, it is enough for:
 - Make a git clone of the repository
-	- git clone "repository"
+	- git clone https://github.com/danilomeneghel/prova_wp_omdb.git
 - Set up the DB
 
 ## Configuration DB
