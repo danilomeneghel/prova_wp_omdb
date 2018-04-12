@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: OMDB API
+Plugin URI: http://wordpress.org
 Description: This plugin consists of a movie query system using OMDB Web Service.
-Version: 1.0
 Author: Danilo Meneghel
+Version: 1.0
+Author URI:
 License: GPLv2
 */
-?>
 
-<?php
 // Register the css
 add_action( 'wp_enqueue_scripts', 'omdb_style');
 
